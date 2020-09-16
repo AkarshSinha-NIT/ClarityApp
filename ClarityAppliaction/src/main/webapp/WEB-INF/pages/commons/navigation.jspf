@@ -1,0 +1,11 @@
+<nav role="navigation" class="navbar navbar-default">
+	<div class="">
+		<h1>US Bank Clarity</h1>
+	</div>
+	<div class="navbar-collapse">
+		
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="/logout">Logout</a></li>
+		</ul>
+	</div>
+</nav>
